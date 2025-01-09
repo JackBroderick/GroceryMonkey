@@ -1,0 +1,15 @@
+{
+  "short_name": "Grocery Monkey",
+  "name": "Grocery Monkey Shopping App",
+  "icons": [
+    {
+      "src": "grocerymonkey.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "browser",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

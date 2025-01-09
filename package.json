@@ -1,0 +1,14 @@
+{
+  "name": "grocerymonkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "grocerymonkey_server/index.js",
+  "scripts": {
+    "install": "cd ./grocerymonkey_server && npm install && cd ..",
+    "test": "nodemon --cwd grocerymonkey_server index.js",
+    "start": "cd ./grocerymonkey_server && nodemon index.js"
+  },
+  "author": "Chris Broderick",
+  "license": "ISC",
+  "dependencies": {}
+}

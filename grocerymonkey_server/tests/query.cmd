@@ -1,0 +1,1 @@
+sqlite3 grocerymonkey.db "select * from users"

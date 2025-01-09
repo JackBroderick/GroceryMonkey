@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type:application/json" http://nodeserver:8080/createuser --data "{\"name\":\"nicole\",\"pin\":\"1234\"}"

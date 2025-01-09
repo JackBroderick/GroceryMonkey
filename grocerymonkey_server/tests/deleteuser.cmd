@@ -1,0 +1,1 @@
+curl -X DELETE -H "Content-Type:application/json" http://nodeserver:8080/deleteuser --data "{\"user_id\":\"1"\"}"

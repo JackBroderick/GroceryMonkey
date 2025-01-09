@@ -1,0 +1,25 @@
+{
+  "name": "grocerymonkey_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dateformat": "^3.0.3",
+    "emailjs": "^3.5.0",
+    "emoji-regex": "^9.2.2",
+    "express": "^4.17.1",
+    "helmet": "^3.23.3",
+    "http": "0.0.0",
+    "node-emoji": "^1.11.0",
+    "node-html-to-image": "^2.1.1",
+    "path": "^0.12.7",
+    "sqlite3": "^5.1.6"
+  }
+}

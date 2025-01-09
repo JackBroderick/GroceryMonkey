@@ -1,0 +1,1 @@
+curl -X PUT -H "Content-Type:application/json" http://nodeserver:8080/updateuser --data "{\"user_id\":\"2\", \"name\":\"nicole\", \"pin\":\"1234\"}"

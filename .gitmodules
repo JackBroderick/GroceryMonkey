@@ -1,0 +1,6 @@
+[submodule "grocerymonkey_server"]
+	path = grocerymonkey_server
+	url = ./grocerymonkey_server
+[submodule "grocerymonkey_client"]
+	path = grocerymonkey_client
+	url = ./grocerymonkey_client

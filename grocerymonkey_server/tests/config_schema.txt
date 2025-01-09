@@ -1,0 +1,3 @@
+create table config (config_id INTEGER PRIMARY KEY, admin_pin TEXT, notifications INTEGER, email_user_name TEXT, email_user_password TEXT, smtp_server TEXT, port_number INTEGER, ssl INTEGER, domain TEXT, email_alias TEXT, app_url TEXT);
+
+insert into config (admin_pin, notifications, email_user_name, email_user_password, smtp_server, port_number, ssl, domain, email_alias, app_url) values ("1111", 1, "chris.broderick@verizon.net", "cb155900", "smtp.verizon.net", 465 , 1, "verizon.net", "703-415-6266 <chris.broderick@verizon.net>", "grocerymonkey.ngrok.io");

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\grocerymonkey_client",
+    "\\grocerymonkey_client\\public",
+    "\\grocerymonkey_client\\src",
+    "\\grocerymonkey_client\\src\\components",
+    "\\grocerymonkey_client\\src\\constants",
+    "\\grocerymonkey_client\\src\\functions",
+    "\\grocerymonkey_server",
+    "\\grocerymonkey_server\\source"
+  ],
+  "SelectedNode": "\\grocerymonkey_server\\source\\notifications.js",
+  "PreviewInSolutionExplorer": false
+}

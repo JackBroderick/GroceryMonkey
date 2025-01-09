@@ -17,3 +17,6 @@ How It Works:
     Each user can mark items as "acquired" once purchased.
     Users earn bananas based on the items they acquire.
     At the end of the month, the "Monkey of the Month" is revealed, based on who has the most bananas!
+![](GroceryMonkey1.PNG)
+![](GroceryMonkey2.PNG)
+![](GroceryMonkey3.PNG)
